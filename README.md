@@ -2,7 +2,7 @@
 _exercise of computer graphics course at UOI, winter of 2019_ 
 (http://www.cs.uoi.gr/)
 
-simple 3D game using OpenGL 
+simple 3D game using OpenGL, written in C++.
 
 
 # How to run: 
@@ -23,3 +23,6 @@ _TO-DO LIST_
 2. clean code
   _this is my first project with C++ so there are many errors with the coding standarts_
 3. find better algorithm for selecting cubes
+
+
+collaboration with Derekas Panagiwths
