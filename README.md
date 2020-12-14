@@ -1,19 +1,19 @@
-# Graphics-uoi-coursework
-_exercise of computer graphics course at UOI, winter of 2019_ 
-(http://www.cs.uoi.gr/)
+## Graphics-uoi-coursework
+exercise for computer a graphics course at [UOI](http://www.cs.uoi.gr/), winter of 2019.
 
-simple 3D game using OpenGL, written in C++.
+A 3D game using OpenGL, written in C++.
 
+---
 
-# How to run: 
-* run make
-* run ./vraxaya
+## How to run: 
+* run `make`
+* run `./vraxaya`
 
-# Prerequisites & Libraries
+## Prerequisites & Libraries
 * GL, GLU, glut
 * g++
 
-# Comments:
+## Comments:
 * you can find the requirements at exercise-instructions(greek).pdf
 * and how to play the game at readme.pdf (also in greek)
 
