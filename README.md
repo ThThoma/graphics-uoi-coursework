@@ -5,24 +5,25 @@ A 3D game using OpenGL, written in C++.
 
 ---
 
-## How to run: 
+### How to run: 
 * run `make`
 * run `./vraxaya`
 
-## Prerequisites & Libraries
+### Prerequisites & Libraries
 * GL, GLU, glut
 * g++
 
-## Comments:
+### Comments:
 * you can find the requirements at exercise-instructions(greek).pdf
 * and how to play the game at readme.pdf (also in greek)
 
 
-_TO-DO LIST_ 
-1. translate requirements and report card to english
-2. clean code
-  _this is my first project with C++ so there are many errors with the coding standarts_
-3. find better algorithm for selecting cubes
+### TO-DO LIST
+*this is an old project, I will remove it soon*
+- [ ] translate requirements and report card to english
+- [ ] clean code
+  *this is my first project with C++ so there are many errors with the coding standarts*
+- [ ] find better algorithm for selecting cubes
 
 
 collaboration with Derekas Panagiwths
